@@ -1267,6 +1267,18 @@ ul.latestusers li {
 .tags {
   margin-bottom: 20px;
 }
+.fields-container dd {
+  border-bottom: 1px dotted #202020;
+  padding: 6.66666667px 0;
+}
+.fields-container dd .field-label {
+  display: inline-block;
+  font-weight: bold;
+  padding-right: 20px;
+}
+.fields-container dd:last-child {
+  border-bottom: 0;
+}
 .article-footer {
   color: #5a5a5a;
   font-size: 12px;
