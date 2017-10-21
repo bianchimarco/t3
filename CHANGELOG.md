@@ -1,3 +1,44 @@
+<h2>Version: 2.7.0 (29/09/2017)</h2>
+<h3>Fix bugs & Improvements</h3>
+- Fix bugs to compatible with Joomla 3.8 | <a href="https://github.com/t3framework/t3/commit/e01f461fea1a653abe2e59fbecc774cbd45dbd19">Link</a><br/>
+- Intergration with new Joomla params | <a 
+href="https://github.com/t3framework/t3/commit/8102b80f9c3f6410dd8b692d6ec75a45b3a75bf3">Link</a><br/>
+- JFile::read is deprecated. | <a href="https://github.com/t3framework/t3/commit/d838e122cf4c16f859eef6285f101e82e427bcb4">Link</a><br/>
+- Joomla\CMS\Factory::getXml is deprecated. | <a href="https://github.com/t3framework/t3/commit/6388ac0a6e619e537c22e64b07f02e80a46b2d10">Link</a><br/>
+- Fix deprecated using expression in HtmlDocument::countModules() | <a href="https://github.com/t3framework/t3/commit/8bd0812b44148cfd6ec5e1482fd6e05c0a3bb9c5">Link</a><br/>
+- Fix deprecated method signature for addScript & addStyleSheet | <a href="https://github.com/t3framework/t3/commit/85208146ecd2ca9245753c7fb2693cbe24188173">Link</a><br/>
+- Wrong default parameter | <a href="https://github.com/t3framework/t3/commit/94aae18ba0afc078bf00bddbde7a51bef80cb519">Link</a><br/>
+- Spotlight Count Module Error | <a href="https://github.com/t3framework/t3/commit/91bc609bfeb6ebe2972e2661442b023dc97fc94a">Link</a><br/>
+- Fix JFileLayout for Joomla 3.x | <a href="https://github.com/t3framework/t3/commit/989d060984c2a7fed4bb865f772a38bf1aa48c3d">Link</a><br/>
+- Update override to compatible with Joomla 3.8 | <a 
+href="https://github.com/t3framework/t3/commit/c111fe496de23dbb8d8ac48610411a8875eba5e8">Link</a><br/>
+- Remove override article edit layout | <a href="https://github.com/t3framework/t3/commit/39d3627f8d76fa33e38e60a0b73e06aa13947bb4">Link</a><br/>
+- Improve style for tag page | <a href="https://github.com/t3framework/t3/commit/1dcd162453da3054c0b93df860254dbc3f2e6500">Link</a><br/>
+- Fix compatible with Joomla 3.3.x | <a href="https://github.com/t3framework/t3/commit/25ba3108690b0639d386f90f0ee88b7d9c4ee973">Link</a><br/>
+- Registry class error | <a href="https://github.com/t3framework/t3/commit/8d92e6ace23b5cbaa737afece530e6f06edc7700">Link</a><br/>
+- Update override layouts for T3 BS2 | <a href="https://github.com/t3framework/t3/commit/29d374e36aa4fc7f561f44029f56dbeeb3eae6dc">Link</a><br/>
+
+<h2>Version: 2.6.7 (06/09/2017)</h2>
+<h3>Fix bugs</h3>
+- T3 Module Layout Problems with Joomla 3.7.3 | <a href="https://github.com/t3framework/t3/commit/463cfa53691493251c15964af6f561777c7a12db">Link</a><br/>
+- Remove auto switch tab | <a 
+href="https://github.com/t3framework/t3/commit/876c564f891ebde3e4a00367382a5a20290762c0">Link</a><br/>
+- Create a menu type List contacts in a category to see the error | <a href="https://github.com/t3framework/t3/commit/fe92584bd909a915e9dba1a8846aa4a7238032f5">Link</a><br/>
+- Fix anchor error on mobile | <a href="https://github.com/t3framework/t3/commit/03d0be479ccfaac0b736e6de0be09a803a11d61c">Link</a><br/>
+- Got error when enable JS Compress Tool: Closure Compiler | <a href="https://github.com/t3framework/t3/commit/0332111ea17ecd7bcf8bf740dcfa519aaf279ac7">Link</a><br/>
+- Fix null date comparison | <a href="https://github.com/t3framework/t3/commit/01807fb80c38446bf4a1ea8230d728fed5511636">Link</a><br/>
+- Missing Field tab on the article editting page | <a href="https://github.com/t3framework/t3/commit/7012672c66deed5239f86d13c177117d4b2f41c7">Link</a><br/>
+- Improve style for custom field edit | <a href="https://github.com/t3framework/t3/commit/cfea53dc9554094e30b165bc614bfaba33f6a31d">Link</a><br/>
+
+<h2>Version: 2.6.6 (21/07/2017)</h2>
+<h3>Fix bugs</h3>
+- Got notice error in thememagic | <a href="https://github.com/t3framework/t3/commit/e1bf82506fa8a4ce3930fff537891775261728f8">Link</a><br/>
+- Update layout override | <a 
+href="https://github.com/t3framework/t3/commit/44c6e1bd2b9a4d005dc4d6478912f6f301bb6d5b">Link</a><br/>
+- Fixed: Duplicate AfterTitle events | <a href="https://github.com/t3framework/t3/commit/b6873118a4cd33e43650d0df7522908a2778df58">Link</a><br/>
+- Highlighting search results on Joomla 3.7.3 using T3 BS3 Blank Template | <a href="https://github.com/t3framework/t3/commit/fc0cfbfa252abb708b9fe621cf62770505739c74">Link</a><br/>
+- Change T3 logo path | <a href="https://github.com/t3framework/t3/commit/b2c8f1943aea240ac8ec23b479f123ce2e24f956">Link</a><br/>
+
 <h2>Version: 2.6.5 (26/05/2017)</h2>
 <h3>Fix bugs</h3>
 - Add Joomla extrafield tab on article edit view | <a href="https://github.com/t3framework/t3/commit/4e8072cb63e2cd087f7162861d18d68d7cff5151">Link</a><br/>
